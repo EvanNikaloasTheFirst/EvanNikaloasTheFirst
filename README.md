@@ -16,5 +16,4 @@
 <div id="languages" align="center">
     <img src="https://img.shields.io/badge/Javascript-gray?style=for-the-badge&logo=Javascript&logoColor=white" alt="Javascript Badge"/>
   </a>
- <img src="![js](https://user-images.githubusercontent.com/94329210/206419578-4dd81cf0-8e47-49e6-8011-09c2863de406.png)
-" alt="Instagram Badge"/>
+
