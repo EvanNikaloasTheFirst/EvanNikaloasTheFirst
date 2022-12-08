@@ -10,3 +10,8 @@
     <img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram?" alt="Instagram Badge"/>
   </a>
 </div>
+
+<p align="center"> Toolkit </p>
+<div id="languages" align="center">
+    <img src="https://img.shields.io/badge/JavaSctipt-yellow?style=for-the-badge&logo=javascript&logoColor=gray" alt="Javascript Badge"/>
+  </a>
