@@ -1,4 +1,6 @@
-### Hi there 👋
+# Greetings 👋🏾, My name is Evangelos!
+## Student Software Engineer
+### Contact me at evanglosniko@outlook.com
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/evangelos-nikoloas-empochontsif-184a52202/">
