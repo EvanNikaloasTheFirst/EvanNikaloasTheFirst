@@ -1,6 +1,6 @@
-# <h1 align="center"> Greetings 👋🏾, My name is Evangelos!</h1>
-## <h2 align="center"> Student Software Engineer </h2>
-### <p align="center"> Contact me at evanglosniko@outlook.com </p>
+<h1 align="center"> Greetings 👋🏾, My name is Evangelos!</h1>
+<h2 align="center"> Student Software Engineer </h2>
+<p align="center"> Contact me at evanglosniko@outlook.com </p>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/evangelos-nikoloas-empochontsif-184a52202/">
