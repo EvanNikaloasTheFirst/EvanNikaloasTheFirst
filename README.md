@@ -13,5 +13,5 @@
 
 <p align="center"> Toolkit </p>
 <div id="languages" align="center">
-    <img src="https://img.shields.io/badge/JavaSctipt-yellow?style=for-the-badge&logo=javascript&logoColor=gray" alt="Javascript Badge"/>
+    <img src="https://img.shields.io/badge/JavaSctipt" alt="Javascript Badge"/>
   </a>
