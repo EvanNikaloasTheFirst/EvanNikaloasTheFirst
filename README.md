@@ -1,4 +1,4 @@
-# Greetings 👋🏾, My name is Evangelos!
+# <h1 align="center"> Greetings 👋🏾, My name is Evangelos!</h1>
 ## Student Software Engineer
 ### Contact me at evanglosniko@outlook.com
 
