@@ -14,9 +14,10 @@
   <h2 align="center" style="bold"> Tools </h2>
     <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white" alt="Javascript Badge"/>
    <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Javas&logoColor=white" alt="java Badge"/>
-   <img src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="Javascript Badge"/>
+   <img src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
    <img src="https://img.shields.io/badge/Docker-lightblue?style=for-the-badge&logo=docker&logoColor=white" alt="Javascript Badge"/>
    <img src="https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=white" alt="Javascript Badge"/>
-   <img src="https://img.shields.io/badge/oracle-lightorange?style=for-the-badge&logo=oracle&logoColor=white" alt="Javascript Badge"/>
+   <img src="https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
+  
   </a>
 
