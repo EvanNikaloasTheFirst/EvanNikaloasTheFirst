@@ -18,7 +18,7 @@
    <img src="https://img.shields.io/badge/Docker-lightblue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
    <img src="https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
    <img src="https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-   <img src="https://img.shields.io/badge/reactjs-blue?style=for-the-badge&logo=reactjs&logoColor=white" alt="React"/>
+
   
   </a>
 
