@@ -7,7 +7,7 @@ Hi there! 👋 I'm Evangelos, a passionate software engineer and the founder of 
 ## About Me
 
 - 💻 I'm a software engineer, skilled in JavaScript, Java, PHP, and more.
-- 🚀 Founder of [PrymeByte](https://prymebyte.com) - Crafting beautiful and effective web experiences.
+- 🚀 Founder of [PrymeByte](https://prymebyte.uk) - Crafting beautiful and effective web experiences.
 - 🎨 Content creator - I enjoy sharing my coding journey and helping others build their brands.
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/evangelos-nikoloas-empochontsif/) and [Instagram](https://www.instagram.com/ev.codes).
 
