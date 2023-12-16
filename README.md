@@ -1,7 +1,10 @@
-<img src="https://user-images.githubusercontent.com/94329210/206425790-180c9f25-13e5-421b-90d2-bb22d29e1a94.png" />
-<h1 align="center" style="bold"> Socials: </h1>
+<!-- GitHub README -->
 
-<div id="badges" align="center">
+# Evangelos Nikoloas Empochontsif
+
+## Socials:
+
+<div align="center">
   <a href="https://www.linkedin.com/in/evangelos-nikoloas-empochontsif-184a52202/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -10,15 +13,13 @@
   </a>
 </div>
 
-<div id="languages" align="center">
-  <h2 align="center" style="bold"> Tools </h2>
-    <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white" alt="Javascript"/>
-   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Javas&logoColor=white" alt="Java"/>
-   <img src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-   <img src="https://img.shields.io/badge/Docker-lightblue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-   <img src="https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-   <img src="https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+## Tools:
 
-  
-  </a>
-
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+</div>
