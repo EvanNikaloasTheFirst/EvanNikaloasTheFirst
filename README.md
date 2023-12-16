@@ -29,4 +29,5 @@ Hi there! 👋 I'm Evangelos, a passionate software engineer and the founder of 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/XML-ff69b4?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/APIs-FF7B00?style=for-the-badge" alt="APIs"/>
 </div>
