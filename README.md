@@ -2,16 +2,19 @@
 
 # Evangelos Nikoloas Empochontsif
 
-## Socials:
+Hi there! 👋 I'm Evangelos, a passionate software engineer and the founder of PrymeByte, a web design agency. I love building creative and functional web solutions that make a positive impact.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/evangelos-nikoloas-empochontsif-184a52202/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/ev.codes/?next=%2F">
-    <img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
+## About Me
+
+- 💻 I'm a software engineer, skilled in JavaScript, Java, PHP, and more.
+- 🚀 Founder of [PrymeByte](https://prymebyte.com) - Crafting beautiful and effective web experiences.
+- 🎨 Content creator - I enjoy sharing my coding journey and helping others build their brands.
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/evangelos-nikoloas-empochontsif-184a52202/) and [Instagram](https://www.instagram.com/ev.codes).
+
+## Connect with Me
+
+- 📷 Follow me on Instagram: [@ev.codes](https://www.instagram.com/ev.codes)
+- ✉️ Subscribe to my Substack: [EvCodes on Substack](https://substack.com/@evcodes)
 
 ## Tools:
 
