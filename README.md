@@ -1,5 +1,3 @@
-<!-- GitHub README -->
-
 # Evangelos Nikoloas Empochontsif
 
 Hi there! 👋 I'm Evangelos, a passionate software engineer.
@@ -8,8 +6,7 @@ Hi there! 👋 I'm Evangelos, a passionate software engineer.
 
 - 💻 I'm a software engineer
 - 🎨 Content creator - I enjoy sharing my coding journey and helping others build their brands.
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/evangelos-nikoloas-empochontsif/), [Instagram](https://www.instagram.com/ev.codes) and [Youtube] (https://youtube.com/@ev_codes?si=KgUX3w_JkAIJGIfq)
-
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/evangelos-nikoloas-empochontsif/), [Instagram](https://www.instagram.com/ev.codes), and [YouTube](https://youtube.com/@ev_codes?si=KgUX3w_JkAIJGIfq)
 
 - 📷 Follow me on Instagram: [@ev.codes](https://www.instagram.com/ev.codes)
 - ✉️ Subscribe to my Substack: [EvCodes on Substack](https://substack.com/@evcodes)
