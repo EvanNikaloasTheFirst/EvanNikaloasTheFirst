@@ -9,8 +9,7 @@ Hi there! 👋 I'm Evangelos, a passionate software engineer.
 - 💻 I'm a software engineer
 - 🎨 Content creator - I enjoy sharing my coding journey and helping others build their brands.
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/evangelos-nikoloas-empochontsif/) and [Instagram](https://www.instagram.com/ev.codes).
-- 📹 Check out my YouTube channel, all about tech, coding & Software Developement! https://youtube.com/@ev_codes?si=KgUX3w_JkAIJGIfq
-## Connect with Me
+- 📹 Check out my [YouTube channel] (https://youtube.com/@ev_codes?si=KgUX3w_JkAIJGIfq), all about tech, coding & Software Developement!
 
 - 📷 Follow me on Instagram: [@ev.codes](https://www.instagram.com/ev.codes)
 - ✉️ Subscribe to my Substack: [EvCodes on Substack](https://substack.com/@evcodes)
