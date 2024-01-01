@@ -10,7 +10,8 @@ Hi there! 👋 I'm Evangelos, a passionate software engineer.
 
 - 📷 Follow me on Instagram: [@ev.codes](https://www.instagram.com/ev.codes)
 - ✉️ Subscribe to my Substack: [EvCodes on Substack](https://substack.com/@evcodes)
-- 💬 Check ny blog, all about technical topics about code and software development.
+💬 Check my blog on all things about technical topics on code and software development: [Hashnode](https://hashnode.com/@evangelostriescoding)
+
 ## Tools:
 
 <div align="center">
