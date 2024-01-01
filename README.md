@@ -2,12 +2,11 @@
 
 # Evangelos Nikoloas Empochontsif
 
-Hi there! 👋 I'm Evangelos, a passionate software engineer and the founder of PrymeByte, a web design agency. I love building creative and functional web solutions that make a positive impact.
+Hi there! 👋 I'm Evangelos, a passionate software engineer.
 
 ## About Me
 
-- 💻 I'm a software engineer, skilled in JavaScript, Java, PHP, and more.
-- 🚀 Founder of [PrymeByte](https://prymebyte.uk) - Crafting beautiful and effective web experiences.
+- 💻 I'm a software engineer
 - 🎨 Content creator - I enjoy sharing my coding journey and helping others build their brands.
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/evangelos-nikoloas-empochontsif/) and [Instagram](https://www.instagram.com/ev.codes).
 
@@ -15,7 +14,7 @@ Hi there! 👋 I'm Evangelos, a passionate software engineer and the founder of 
 
 - 📷 Follow me on Instagram: [@ev.codes](https://www.instagram.com/ev.codes)
 - ✉️ Subscribe to my Substack: [EvCodes on Substack](https://substack.com/@evcodes)
-
+- 💬 Check ny blog, all about technical topics about code and software development.
 ## Tools:
 
 <div align="center">
