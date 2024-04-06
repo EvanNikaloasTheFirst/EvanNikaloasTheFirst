@@ -1,6 +1,6 @@
 # Evangelos Nikoloas Empochontsif
 
-Hi there! 👋 I'm Evangelos, a passionate software engineer.
+Hi there! 👋 I'm Evangelos, a passionate software engineer, who particularly loves building using Java & Flutter!
 
 ## About Me
 
@@ -19,6 +19,8 @@ Hi there! 👋 I'm Evangelos, a passionate software engineer.
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Postman&logoColor=orange" alt="Java"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=bitbucker&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
