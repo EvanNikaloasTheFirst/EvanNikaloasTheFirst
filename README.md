@@ -1,6 +1,6 @@
 # Evangelos Nikoloas Empochontsif
 
-Hi there! 👋 I'm Evangelos, a passionate software engineer, who particularly loves building using Java & Flutter!
+Hi there! 👋 I'm Evangelos!
 
 ## About Me
 
