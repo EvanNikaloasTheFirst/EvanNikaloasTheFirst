@@ -7,7 +7,6 @@ Hi there! 👋 I'm Evangelos!
 - 💻 I'm a software engineer
 - 🎨 Content creator - I enjoy sharing my coding journey and helping others build their brands.
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/evangelos-nikoloas-empochontsif/) and [Instagram](https://www.instagram.com/ev.codes)
-- 📷 Follow me on Instagram: [@ev.codes](https://www.instagram.com/ev.codes)
 - ✉️ Subscribe to my Substack: [EvCodes on Substack](https://substack.com/@evcodes)
 💬 Check my blog on all things about technical topics on code and software development: [Hashnode](https://hashnode.com/@evangelostriescoding)
 
